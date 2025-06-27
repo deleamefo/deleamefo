@@ -1,7 +1,9 @@
 
 ## amefo 
 
-systems, data, product.
+systems, data, product. 
+
+with it, on it
 
 <!--
 **deleamefo/deleamefo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
