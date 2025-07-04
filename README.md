@@ -1,7 +1,7 @@
 
 ## amefo 
 
-systems, data, product. 
+infra, data, product. 
 
 with it, on it.
 
